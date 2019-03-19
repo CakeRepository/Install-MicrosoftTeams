@@ -1,5 +1,5 @@
 # Install-MicrosoftTeams
-Install Microsoft Teams all user Powershell command
+Install Microsoft Teams all user Powershell Script
 
 # Examples
 
